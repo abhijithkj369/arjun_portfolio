@@ -107,7 +107,7 @@ function CountdownScreen({ onLaunch }) {
 
   const startCountdown = () => {
     setStarted(true);
-    setCount(10);
+    setCount(3);
   };
 
   useEffect(() => {
