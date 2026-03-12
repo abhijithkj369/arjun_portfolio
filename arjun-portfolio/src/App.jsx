@@ -7,8 +7,8 @@ const PROFILE = {
   tagline: "From Rocket Avionics to Cloud Infrastructure",
   location: "Thiruvananthapuram, India",
   openTo: "Open to opportunities across India & Global",
-  email: "arjunm@example.com",
-  linkedin: "linkedin.com/in/arjunm",
+  email: "arjunaju70561@gmail.com",
+  linkedin: "linkedin.com/in/arjun-m-40b055228",
 };
 
 const MISSIONS = [
@@ -660,8 +660,8 @@ function ContactSection() {
 
         <div style={{ display: "flex", flexDirection: "column", gap: 16, alignItems: "center" }}>
           {[
-            { icon: "💼", label: "LinkedIn", value: "linkedin.com/in/arjunm", color: "#0077B5" },
-            { icon: "📧", label: "Email", value: "arjunm@example.com", color: "#FF6B35" },
+            { icon: "💼", label: "LinkedIn", value: "linkedin.com/in/arjun-m-40b055228", color: "#0077B5" },
+            { icon: "📧", label: "Email", value: "arjunaju70561@gmail.com", color: "#FF6B35" },
             { icon: "📍", label: "Location", value: "Thiruvananthapuram, Kerala, India", color: "#4ECDC4" },
           ].map((c) => (
             <div
